@@ -41,7 +41,7 @@ curl http://localhost:3000
 run this command.
 
 ```bash
-npx mocha test/app.test.js
+npm test
 ```
 
 ### Contribution Guidelines
